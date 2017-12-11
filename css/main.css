@@ -1,0 +1,23 @@
+#map {
+    width: 100%;
+    height: 500px;
+}
+.info-window-content {
+    padding: 20px 0;
+    float: left;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.5px;
+    word-wrap: break-word;
+    width: 200px;
+    overflow-x: hidden;
+}
+
+div.info-window-content > img  {
+    width: 100% !important;
+    height: auto;
+}
+
+.entry-content a img, .widget a img {
+    marigin-bottom: 15px;
+}

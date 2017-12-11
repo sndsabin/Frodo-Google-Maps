@@ -1,0 +1,22 @@
+/* Field styles */
+.frodo-google-map-container {
+    width:inherit;
+    height:300px;
+}
+.row-title {
+    font-family: sans-serif, Arial, Verdana, "Trebuchet MS";
+    font-size: 20px;
+    font-weight: bold;
+}
+.description-container {
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.button-primary {
+    float: right;
+}
+
+#map {
+    width:inherit;
+    height:400px;
+}
